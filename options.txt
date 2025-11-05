@@ -1,0 +1,2 @@
+resourcePacks:["ProtyuPack.zip"]
+incompatibleResourcePacks:[]
